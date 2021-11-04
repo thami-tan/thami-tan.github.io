@@ -9,3 +9,23 @@ p {
 body {
     background-color: #EBF2FA;
 }
+
+strong {
+    color: #8F001D;
+}
+
+.draw {
+    font-size: 20px;
+}
+
+.cook {
+    font-size: 25px;
+}
+
+.perception {
+    font-size: 30px;
+}
+
+.metroid {
+    font-size: 100px;
+}
